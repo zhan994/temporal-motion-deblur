@@ -1,1 +1,1 @@
-# motion_deblur
+# temporal-motion-deblur
