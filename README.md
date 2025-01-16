@@ -1,8 +1,16 @@
-# Image Motion Blur Removal in the Temporal Dimension with Video Diffusion Models
-Wang Pang<sup>1</sup>\*, Zhihao Zhan<sup>2</sup>\*, Xiang Zhu<sup>2</sup>\*, and Yechao Bai<sup>1#</sup>
+# temporal-motion-deblur
 
-(*Equal contribution,#Corresponding author)
+This is the repository that contains source code for the [temporal-motion-deblur website](https://zhan994.github.io/temporal-motion-deblur_page/).
 
-<sup>1</sup>Nanjing University, <sup>2</sup>TopXGun Robotics
+If you find **temporal-motion-deblur** useful for your work please cite:
+```
+@article{park2021nerfies
+  author    = {xxxxx},
+  title     = {Image Motion Blur Removal in the Temporal Dimension with Video Diffusion Models},
+  journal   = {xxxxx},
+  year      = {2025},
+}
+```
 
-[Project Page](https://sjtuplayer.github.io/anomalydiffusion-page/)
+# Website License
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
