@@ -1,8 +1,8 @@
-# temporal-motion-deblur
+# Image Motion Blur Removal in the Temporal Dimension with Video Diffusion Models
 
-This is the repository that contains source code for the [temporal-motion-deblur website](https://zhan994.github.io/temporal-motion-deblur_page/).
+This is the repository that contains source code for the [website](https://zhan994.github.io/temporal-motion-deblur/).
 
-If you find **temporal-motion-deblur** useful for your work please cite:
+If you find our method useful for your work please cite:
 ```
 @article{park2021nerfies
   author    = {xxxxx},
