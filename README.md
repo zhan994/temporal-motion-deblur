@@ -4,11 +4,14 @@ This is the repository that contains source code for the [website](https://zhan9
 
 If you find our method useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {xxxxx},
-  title     = {Image Motion Blur Removal in the Temporal Dimension with Video Diffusion Models},
-  journal   = {xxxxx},
-  year      = {2025},
+@misc{pang2025imagemotionblurremoval,
+      title={Image Motion Blur Removal in the Temporal Dimension with Video Diffusion Models}, 
+      author={Wang Pang and Zhihao Zhan and Xiang Zhu and Yechao Bai},
+      year={2025},
+      eprint={2501.12604},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV},
+      url={https://arxiv.org/abs/2501.12604},
 }
 ```
 
