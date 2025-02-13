@@ -1,0 +1,12 @@
+xformers==0.0.25.post1
+mmengine==0.10.4
+tqdm==4.66.5
+einops==0.8.0
+rotary-embedding-torch==0.5.3
+timm==0.9.16
+transformers==4.39.3
+requests==2.32.3
+omegaconf==2.3.0
+pytorch-lightning==2.4.0
+av==13.0.0
+numpy==1.26.4
