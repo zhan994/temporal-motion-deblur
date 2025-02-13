@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 ## Inference
 
-To run inference with our provided weights, first download weights into folder `pretrained`  as shown.
+To run inference with our provided weights, first download weights into folder [pretrained](https://drive.google.com/drive/folders/1oywg9btsvUXd9qlgKm8T6Qxwzj0BRESd?usp=sharing)  as shown.
 
 ```
 pretrained/
