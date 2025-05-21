@@ -194,10 +194,10 @@
             <p>
               Overview of the <b>VDM-MD</b> method: In the core iteration, the estimated 3D sharp video resides in the
               latent space, represented by green boxes. It is generated and refined by the pre-trained <b>VDM</b>, which
-              includes several STDiT blocks. The latent video is then decoded and compared with the blurry image through
-              the degradation model, indicated by red boxes. Their discrepancies are used to correct and enhance the
-              video. Upon completion the latent video is decoded back to the visual space.
-            </p>
+              includes several STDiT blocks, as shown in the structural diagram on the right. The latent video is then
+              decoded and compared with the blurry image through the degradation model, indicated by red boxes. Their
+              discrepancies are used to correct and enhance the video. Upon completion the latent video is decoded back
+              to the visual space. </p>
           </div>
         </div>
       </div>
@@ -361,10 +361,10 @@
           <div class="content has-text-justified">
             <p>
               We compared our algorithm to three state-of-the-art single-image deblurring methods: <b>MPRNet, MTRNN,
-                Restormer and ID-BLAU</b>, each producing only a single deblurred image. Because there is no exact
-              single-frame ground truth for each blurred observation, we took the 5th (middle) frame of our recovered
-              sequence for quantitative evaluation, then measured <b>PSNR</b> and <b>SSIM</b> against the corresponding
-              middle ground-truth frame.
+                Restormer and Restormer enhanced by ID-Blau (denoted by “Res+ID-Blau")</b>, each producing only a single
+              deblurred image. Because there is no exact single-frame ground truth for each blurred observation, we took
+              the 5th (middle) frame of our recovered sequence for quantitative evaluation, then measured <b>PSNR</b>
+              and <b>SSIM</b> against the corresponding middle ground-truth frame.
             </p>
           </div>
           <img src="./static/images/sota_psnr_ssim.png" class="center" width="45%" />
