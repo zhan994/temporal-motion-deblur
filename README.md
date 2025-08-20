@@ -58,13 +58,14 @@ python sample_motion_deblur.py configs/clev/deblur.py --ckpt-path pretrained/cle
 ## Citation
 
 ```
-@misc{pang2025imagemotionblurremoval,
-      title={Image Motion Blur Removal in the Temporal Dimension with Video Diffusion Models}, 
-      author={Wang Pang and Zhihao Zhan and Xiang Zhu and Yechao Bai},
-      year={2025},
-      eprint={2501.12604},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV},
-      url={https://arxiv.org/abs/2501.12604},
-}
+@INPROCEEDINGS{11084505,
+  author={Pang, Wang and Zhan, Zhihao and Zhu, Xiang and Bai, Yechao},
+  booktitle={2025 IEEE International Conference on Image Processing (ICIP)}, 
+  title={Image Motion Blur Removal In The Temporal Dimension With Video Diffusion Models}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={325-330},
+  keywords={Deblurring;Visualization;Technological innovation;Dynamics;Estimation;Training data;Transformer cores;Diffusion models;Transformers;Kernel;Motion deblurring;video diffusion model;diffusion transformer},
+  doi={10.1109/ICIP55913.2025.11084505}}
 ```
