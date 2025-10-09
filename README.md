@@ -5,7 +5,7 @@ Wang Pang<sup>1</sup>\*, Zhihao Zhan<sup>2</sup>\*, Xiang Zhu<sup>2</sup>\*, and
 
 <sup>1</sup>Nanjing University, <sup>2</sup>TopXGun Robotics
 
-### [[Project Page](https://zhan994.github.io/temporal-motion-deblur/)] [[arXiv](https://arxiv.org/abs/2501.12604)]
+### [[Project Page](https://zhan994.github.io/temporal-motion-deblur/)] [[Hugging Face](https://huggingface.co/zhan994/temporal-motion-deblur)] [[arXiv](https://arxiv.org/abs/2501.12604)] 
 
 ![merged_aux1_635](images/merged_aux1_635.png)
 
@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 ## Inference
 
-To run inference with our provided weights, first download weights into folder [pretrained](https://drive.google.com/drive/folders/1oywg9btsvUXd9qlgKm8T6Qxwzj0BRESd?usp=sharing)  as shown.
+To run inference with our provided weights, first download weights into folder [pretrained](https://huggingface.co/zhan994/temporal-motion-deblur)  as shown from **Hugging Face**.
 
 ```
 pretrained/
