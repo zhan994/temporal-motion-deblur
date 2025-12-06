@@ -1,6 +1,8 @@
 # Image Motion Blur Removal in the Temporal Dimension with Video Diffusion Models
 
-### [[Project Page](https://zhan994.github.io/temporal-motion-deblur/)] [[Hugging Face](https://huggingface.co/zhan994/temporal-motion-deblur)] [[arXiv](https://arxiv.org/abs/2501.12604)] 
+[[Website]](https://zhan994.github.io/temporal-motion-deblur/)
+[[arXiv]](https://arxiv.org/abs/2501.12604)
+[[Hugging Face]](https://huggingface.co/zhan994/temporal-motion-deblur)
 
 ![merged_aux1_635](images/merged_aux1_635.png)
 
